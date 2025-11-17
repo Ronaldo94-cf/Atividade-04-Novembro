@@ -18,7 +18,14 @@ O modelo foi concebido para atender rigorosamente à **Terceira Forma Normal (3F
 
 ### 2. Diagrama Entidade-Relacionamento (Modelo Lógico Visual)
 
-*(**INSERIR LINK AQUI:** Você pode colocar o link para o diagrama gerado no dbdiagram.io ou incluir a imagem no repositório e referenciá-la aqui.)*
+*(**INSERIR LINK AQUI:** (https://dbdiagram.io/d/Sprint2-atv-3-690a043d6735e111702ff3b3)
+
+![Uploading sprint 3.jpg…]()
+
+![Uploading sprint2.png…]()
+
+<img width="1382" height="820" alt="sprint3-2" src="https://github.com/user-attachments/assets/999a0db7-ee97-48e8-a78b-a8eaeb687d67" />
+
 
 ---
 
