@@ -20,11 +20,10 @@ O modelo foi concebido para atender rigorosamente à **Terceira Forma Normal (3F
 
 *(**INSERIR LINK AQUI:** (https://dbdiagram.io/d/Sprint2-atv-3-690a043d6735e111702ff3b3)
 
-![Uploading sprint 3.jpg…]()
-
-![Uploading sprint2.png…]()
-
+<img width="1270" height="629" alt="sprint2" src="https://github.com/user-attachments/assets/652e0c61-b5f5-44f5-8e7a-db6d4f9cdc75" />
 <img width="1382" height="820" alt="sprint3-2" src="https://github.com/user-attachments/assets/999a0db7-ee97-48e8-a78b-a8eaeb687d67" />
+![sprint 3](https://github.com/user-attachments/assets/202e362f-444d-4635-847d-de49ca5ab7d3)
+
 
 
 ---
