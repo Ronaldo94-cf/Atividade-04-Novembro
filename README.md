@@ -22,7 +22,8 @@ O modelo foi concebido para atender rigorosamente à **Terceira Forma Normal (3F
 
 <img width="1270" height="629" alt="sprint2" src="https://github.com/user-attachments/assets/652e0c61-b5f5-44f5-8e7a-db6d4f9cdc75" />
 <img width="1382" height="820" alt="sprint3-2" src="https://github.com/user-attachments/assets/999a0db7-ee97-48e8-a78b-a8eaeb687d67" />
-https://github.com/user-attachments/assets/d3111882-6a9a-4d16-9a57-d87eace473d9
+
+<img width="1527" height="735" alt="dbe" src="https://github.com/user-attachments/assets/32c3e15a-a55e-46be-b728-77852c65fc2e" />
 
 
 
